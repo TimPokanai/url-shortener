@@ -31,4 +31,5 @@ public class ShortUrl {
     private String shortCode;
 
     private LocalDateTime createdAt;
+    
 }
